@@ -7,7 +7,7 @@ defineProps<{ msg: string }>()
 
   <div class="card">
     <a
-      href="https://identity.truorastaging.com/preview/IPF77c3e61eaf6d12f043b0e1b192b176ed"
+      href="https://identity.truorastaging.com/preview/IPF6648c9b4fe3b89174c8bc10f3c7f3976"
       style="
         text-decoration: none; background: #01022E;
         color: #ffffff; border-radius: 6px;
